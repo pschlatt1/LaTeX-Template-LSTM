@@ -4,6 +4,8 @@ Please use this template for any project thesis (Master, Bachelor, ...) at LSTM.
 
 For thesis work done in Word, try to match the format as closely as possible. The preferred language is English, but there are also German versions available.
 
+The Tech. Rep. number (e.g. 01/2025) you can get from the LSTM Administration.
+
 This template is based on previous work by Chris Heigl and Felix Czwielong, and other colleagues.
 
 In case of improvements, please issue PRs to keep these sources up to date.
