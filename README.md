@@ -9,3 +9,6 @@ The Tech. Rep. number (e.g. 01/2025) you can get from the LSTM Administration.
 This template is based on previous work by Chris Heigl and Felix Czwielong, and other colleagues.
 
 In case of improvements, please issue PRs to keep these sources up to date.
+
+
+Philipp Schlatter, 14.02.2025
